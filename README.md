@@ -15,7 +15,7 @@ The Project focus on developing algorithms for a math application using Bash scr
 <h2>Languages and Utilities Used</h2>
 
 - <b>Bash</b>
-- <b>VIM</b>
+- <b>Vim Editor</b>
 
 <h2>OS Used </h2>
 
