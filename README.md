@@ -24,18 +24,24 @@ The Project focus on developing algorithms for a math application using Bash scr
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Take student information, extract digits in Student ID and display in as an array: <br/>
-<img src="https://i.imgur.com/xwoFy4m.png" height="80%" width="80%" alt="IPO Console Application"/>
+Elementary Section: <br/>
+<img src="https://i.imgur.com/yfikt87.png" height="80%" width="80%" alt="Math App"/>
+<img src="https://i.imgur.com/2w7tF3M.png" height="80%" width="80%" alt="Math App"/>
+<img src="https://i.imgur.com/ka3EhPn.png" height="80%" width="80%" alt="Math App"/>
+<img src="https://i.imgur.com/ULEv0VF.png" height="80%" width="80%" alt="Math App"/>
 <br />
 <br />
-Do math operations with integers:  <br/>
-<img src="https://i.imgur.com/VqVRGFh.png" height="80%" width="80%" alt="IPO Console Application"/>
+Secondary Section:  <br/>
+<img src="https://i.imgur.com/FIo88uq.png" height="80%" width="80%" alt="Math App"/>
+<img src="https://i.imgur.com/HMdEzE1.png" height="80%" width="80%" alt="Math App"/>
+<img src="https://i.imgur.com/FcFIIiO.png" height="80%" width="80%" alt="Math App"/>
+<img src="https://i.imgur.com/NOIn6jU.png" height="80%" width="80%" alt="Math App"/>
 <br />
 <br />
-Do math operations with decimals: <br/>
-<img src="https://i.imgur.com/YVLbUoj.png" height="80%" width="80%" alt="IPO Console Application"/>
-<br />
-<br />
-Do String Concatenation:  <br/>
-<img src="https://i.imgur.com/gtUQMPb.png" height="80%" width="80%" alt="IPO Console Application"/>
+High school section: <br/>
+<img src="https://i.imgur.com/kO7Zp9o.png" height="80%" width="80%" alt="Math App"/>
+<img src="https://i.imgur.com/Idpj1xa.png" height="80%" width="80%" alt="Math App"/>
+<img src="https://i.imgur.com/efeowqN.png" height="80%" width="80%" alt="Math App"/>
+<img src="https://i.imgur.com/gMKV8c0.png" height="80%" width="80%" alt="Math App"/>
+<img src="https://i.imgur.com/d6JDCQx.png" height="80%" width="80%" alt="Math App"/>
 </p>
