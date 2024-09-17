@@ -1,6 +1,6 @@
 <h1>Linux Math Application</h1>
 
- ### 🎲 [Demo Video](https://imgur.com/VW0vO9g)
+ ### 🧭 [Demo Video](https://drive.google.com/file/d/1oRdsEMWRrRmcVCckXVt38PqdrPsy3wTF/view?usp=sharing)
 
 <h2>Description</h2>
 The Project focus on developing algorithms for a math application using Bash scripting, featuring 3 different sections for students:
